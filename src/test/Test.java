@@ -24,7 +24,7 @@ public class Test extends Application {
     @Override
     public void start(Stage primaryStage) {
         
-        root.getChildren().add(btn);
+        //root.getChildren().add(btn);
         
         Scene scene = new Scene(root, 300, 250);
         
